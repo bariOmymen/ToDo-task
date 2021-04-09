@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo Tasks</string>
+    <string name="next" translatable="false">التالي</string>
+    <string name="title_activity_maps" translatable="false">الخريطة</string>
+    <string name="set" >تعيين</string>
+    <string name="address">عنوان المهمة:%1$s</string>
+    <string name="saveTask">حفظ المهمة</string>
+    <string name="service_not" >خدمة غير متوفرة</string>
+    <string name="action_settings" >الاعدادات</string>
+    <string name="address_not_found">غير قادر على ايجاد عنوان</string>
+    <string name="set_location">عيين موقع</string>
+</resources>
